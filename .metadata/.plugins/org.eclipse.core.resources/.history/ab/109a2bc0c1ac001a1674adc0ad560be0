@@ -1,0 +1,9 @@
+package com.codebind;
+
+public class App {
+	public String sample()
+	{
+		System.out.println("tttt");
+	}
+
+}
